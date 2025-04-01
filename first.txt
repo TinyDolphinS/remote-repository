@@ -43,6 +43,6 @@ def calculator():
             if next_calculation.lower() != 'да':
                 break
         else:
-            print("Ошибка! Неверный выбор операции.")
+            print("Ошибка! Неверно выбрана операция.")
 
 calculator()
