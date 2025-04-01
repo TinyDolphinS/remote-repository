@@ -1,2 +1,2 @@
 print("You are cool!")
-print("Have a wonderful day!")
+print("Have a wonderful evening!")
