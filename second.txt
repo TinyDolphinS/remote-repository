@@ -1,1 +1,1 @@
-print("Your calculation is great!")
+print("Thank you for your calculation!")
