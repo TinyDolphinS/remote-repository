@@ -1,1 +1,1 @@
-print("Thank you for your calculation!")
+print("Thank you for your calculation, human!")
