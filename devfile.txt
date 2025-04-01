@@ -1,0 +1,1 @@
+print("Everybody love this calculator!")
